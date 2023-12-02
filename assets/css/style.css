@@ -13,6 +13,10 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    position: fixed; /*fixed positioning with width of 100%*/
+    z-index: 1000; /* Adjust the z-index as needed */
+    width: 100%;
+
 }
 
 .header h1 {
@@ -188,7 +192,8 @@ p {
     font-size: 36px;
 }
 
-.footer {  /* I did not added any postitioning properties as it is 'static' by default */
+.footer {  
+    /* I did not added any postitioning properties as it is 'static' by default */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
