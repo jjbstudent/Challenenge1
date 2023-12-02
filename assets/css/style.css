@@ -19,11 +19,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Styles the emphasized part in the logo */
 .header h1 .emphasis {
     color: #d9dcd6;
 }
-/*changed header div to header nav - semantic change*/
+/*changed header div to header nav in all child properties in header - semantic change*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,6 +39,9 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+.header a:hover {  /* testing additional feature in header "yellow underline when hovering over hrefs".*/
+    border-bottom: 2px solid #ffd700; /* Add an underline on hover */
 }
 
 a {
