@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*div replaced by header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,7 +16,6 @@ body {
     position: fixed; /*fixed positioning with width of 100%*/
     z-index: 1000; /* Adjust the z-index as needed */
     width: 100%;
-
 }
 
 .header h1 {
@@ -27,7 +26,7 @@ body {
 .header h1 .emphasis {
     color: #d9dcd6;
 }
-/*changed header div to header nav - semantic change*/
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
