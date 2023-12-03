@@ -56,7 +56,7 @@ N/A
 
 ## Usage 
 
-Open website in a browser click on the navigation links in the top header.
+Open website https://jjbstudent.github.io/WebRefactoringProject/ in a browser click on the navigation links in the top header.
 
 Preview of website 
 ![Website screenshot](assets/images/website.jpg)
