@@ -11,9 +11,9 @@ The Accessibility Refactor Project aims to improve the accessibility of an exist
 - [Installation](#installation)
 - [contributing](#contibuting)
 - [Usage](#usage)
-- [License](#license)
+- [License](#License)
 - [credits](#credits)
-- [Contact](#contact)
+- [Contact](#Contact)
 
 ## Project Overview
 
@@ -43,33 +43,35 @@ To work on this project locally, follow these steps:
    ```bash
    git clone https://github.com/jjbstudent/WebRefactoringProject.git
 
-2. Open and edit the code in VS Code 
-    ```bash
-    code .
+   git pull origin main
 
-    
+   code . 
+
+   
 ## Contributing
 
- Tutorials links used..
- 1. Enabling gut hub pages - https://www.youtube.com/watch?v=P4Mu1t5rIXg
- 
- 2. Semantic emements - https://www.w3schools.com/html/html5_semantic_elements.asp
+Links to resources and tutorials 
 
- 2. IDs & Classes  -https://www.bestcolleges.com/bootcamps/guides/css-class-vs-id/#:~:text=You%20should%20use%20a%20class,They%20are%20not%20unique
+https://docs.github.com/en/get-started/quickstart/github-flow - git flow
 
+https://www.w3schools.com/css/css_positioning.asp - CSS positioning
+
+https://www.w3schools.com/html/html5_semantic_elements.asp - Semantic HTML
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Open website in a browser click on the navigation links in the top header.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Preview of website 
+![alt text](asset/images/website.png)
 
-![alt text](assets/images/Semantic HTML.jpg)
-
+![alt text](assets/images/semantichtml.jpg)
    
-## Licence 
+## License 
 
 This project is licensed under the MIT License.
+
+## Credits
 
 ## Contact 
 
