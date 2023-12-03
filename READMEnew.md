@@ -9,10 +9,10 @@ The Accessibility Refactor Project aims to improve the accessibility of an exist
 - [Project Overview](#project-overview)
 - [Features](#Features)
 - [Installation](#installation)
-- [contributing] (#contibuting)
+- [contributing](#contibuting)
 - [Usage](#usage)
 - [License](#license)
-- [credits] (#credits)
+- [credits](#credits)
 - [Contact](#contact)
 
 ## Project Overview
@@ -64,7 +64,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-```md
 ![alt text](assets/images/Semantic HTML.jpg)
 
    
