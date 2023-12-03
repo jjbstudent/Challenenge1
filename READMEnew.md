@@ -43,22 +43,29 @@ To work on this project locally, follow these steps:
    ```bash
    git clone https://github.com/jjbstudent/WebRefactoringProject.git
 
+   git pull origin main
+
+   code . 
+
+   
 ## Contributing
 
-List your collaborators, if any, with links to their GitHub profiles.
+Links to resources and tutorials 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://docs.github.com/en/get-started/quickstart/github-flow - git flow
 
-If you followed tutorials, include links to those here as well.
+https://www.w3schools.com/css/css_positioning.asp - CSS positioning
+
+https://www.w3schools.com/html/html5_semantic_elements.asp - Semantic HTML
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Open website in a browser click on the navigation links in the top header.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Preview of website 
+![alt text](asset/images/website.png)
 
-
-![alt text](assets/images/semantichtlm.jpg)
+![alt text](assets/images/semantichtml.jpg)
    
 ## License 
 
