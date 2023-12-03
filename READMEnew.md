@@ -9,10 +9,10 @@ The Accessibility Refactor Project aims to improve the accessibility of an exist
 - [Project Overview](#project-overview)
 - [Features](#Features)
 - [Installation](#installation)
-- [contributing] (#contibuting)
+- [contributing](#contibuting)
 - [Usage](#usage)
 - [License](#license)
-- [credits] (#credits)
+- [credits](#credits)
 - [Contact](#contact)
 
 ## Project Overview
