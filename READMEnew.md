@@ -50,13 +50,9 @@ To work on this project locally, follow these steps:
    
 ## Contributing
 
-Links to resources and tutorials 
+N/A
 
-https://docs.github.com/en/get-started/quickstart/github-flow - git flow
-
-https://www.w3schools.com/css/css_positioning.asp - CSS positioning
-
-https://www.w3schools.com/html/html5_semantic_elements.asp - Semantic HTML
+*see Credits for resource links
 
 ## Usage 
 
@@ -72,6 +68,15 @@ Preview of website
 This project is licensed under the MIT License.
 
 ## Credits
+
+Links to resources and tutorials
+
+https://docs.github.com/en/get-started/quickstart/github-flow - git flow
+
+https://www.w3schools.com/css/css_positioning.asp - CSS positioning
+
+https://www.w3schools.com/html/html5_semantic_elements.asp - Semantic HTML
+
 
 ## Contact 
 
