@@ -11,9 +11,9 @@ The Accessibility Refactor Project aims to improve the accessibility of an exist
 - [Installation](#installation)
 - [contributing](#contibuting)
 - [Usage](#usage)
-- [License](#license)
+- [License](#License)
 - [credits](#credits)
-- [Contact](#contact)
+- [Contact](#Contact)
 
 ## Project Overview
 
@@ -59,11 +59,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ```md
 ![alt text](assets/images/screenshot.png)
-
    
-## Licence 
+## License 
 
 This project is licensed under the MIT License.
+
+## Credits
 
 ## Contact 
 
