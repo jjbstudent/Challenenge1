@@ -63,9 +63,9 @@ https://www.w3schools.com/html/html5_semantic_elements.asp - Semantic HTML
 Open website in a browser click on the navigation links in the top header.
 
 Preview of website 
-![alt text](asset/images/website.jpg)
+![alt text](assets/images/website.jpg)
 
-![alt text](asset/images/semantichtml.jpg)
+![alt text](asset/images/SemanticHTML.jpg)
    
 ## License 
 
