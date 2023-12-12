@@ -1,4 +1,4 @@
-# Web refactoring Project
+# Web Refactoring Project
 
 ## Description
 
